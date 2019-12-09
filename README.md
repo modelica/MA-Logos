@@ -1,15 +1,13 @@
 # Modelica Association Logos (MA, Language, Libraries, FMI, SSP, DCP)
 This repository contains Modelica Association (MA) logos, hosted at https://github.com/modelica/MA-Logos 
 
-*INSERT PICTURE OF ALL LOGOS HERE*
+![All MA-project logos](./HighRes/Modelica_Association_Projects.svg "All MA-project logos")
 
 ## Usage guideline
 
   * Use *Modelica Association logo* whenever possible. This should emphasize the coordination work of Modelica Association and make clear, that Modelica Association is not only about Modelica® language.
   * When showing *multiple MA project logos*, scale all of them to the same size (surface area). Use the following ordering (sequence of joining the MA): Language, Libraries, FMI, SSP, DCP
   * Place logos on *white background*, whenever possible. A light gray background is also possible.
-
-A comparison to older logos can be found here: *ADD LINK*
 
 ## MA Logos Usage Terms and Conditions
 The MA logos are intellectual property of the Modelica Association. 
