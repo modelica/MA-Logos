@@ -6,8 +6,11 @@ This repository contains Modelica Association (MA) logos, hosted at https://gith
 ## Usage guideline
 
   * Use *Modelica Association logo* whenever possible. This should emphasize the coordination work of Modelica Association and make clear, that Modelica Association is not only about Modelica® language.
-  * When showing *multiple MA project logos*, scale all of them to the same size (surface area). Use the following ordering (sequence of joining the MA): Language, Libraries, FMI, SSP, DCP
-  * Place logos on *white background*, whenever possible. A light gray background is also possible.
+  * When showing *multiple MA project logos*, scale all of them to the same size. Use the [x-height](https://en.wikipedia.org/wiki/X-height) measure for scaling.
+  * Use the letter baseline to align multiple logos.
+  * Use the following logo order (sequence of joining the MA): Language, Libraries, FMI, SSP, DCP.
+  * The Modelica color scheme includes Black (&#35;1F252F), Red (&#35;DD1D30), and Grey (&#35;707984). White is defined as &#35;FFFFFF.
+  * Place logos on *white background*, whenever possible. A light gray background (&#35;ECECEC) is also possible.
 
 ## MA Logos Usage Terms and Conditions
 The MA logos are intellectual property of the Modelica Association. 
