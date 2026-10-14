@@ -11,6 +11,7 @@ This repository contains Modelica Association (MA) logos, hosted at https://gith
   * Use the following logo order (sequence of joining the MA): Language, Libraries, FMI, SSP, DCP.
   * The Modelica color scheme includes Black (&#35;1F252F), Red (&#35;DD1D30), and Grey (&#35;707984). White is defined as &#35;FFFFFF.
   * Place logos on *white background*, whenever possible. A light gray background (&#35;ECECEC) is also possible.
+  * If the logos need to be on a dark background, they can be used monochromatically with one of the three colors (black, red, or grey – see above) or in white.
 
 ## MA Logos Usage Terms and Conditions
 The MA logos are intellectual property of the Modelica Association. 
